@@ -1,6 +1,5 @@
 ## Smart Home Application
 
- * Only Graphics
 
 
 ## Getting Started
