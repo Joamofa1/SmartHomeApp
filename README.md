@@ -18,7 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # How to run Application
 - ```git clone "url" ```
-- 
+- ``` flutter pub get ```
+- ```flutter run```
 
 
 ## Screenshots
